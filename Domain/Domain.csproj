@@ -9,7 +9,6 @@
   <ItemGroup>
     <Folder Include="Configurations\" />
     <Folder Include="DTOs\" />
-    <Folder Include="Entities\" />
     <Folder Include="Mappers\" />
   </ItemGroup>
 
