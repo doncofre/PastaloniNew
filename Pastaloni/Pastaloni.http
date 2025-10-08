@@ -1,0 +1,6 @@
+@Pastaloni_HostAddress = http://localhost:5025
+
+GET {{Pastaloni_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
